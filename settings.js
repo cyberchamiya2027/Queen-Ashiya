@@ -43,7 +43,7 @@ global.owner = ['CYBER CHAMIYA']
 
 global.premium = ['CYBER CHAMIYA']
 
-global.ownernomer = '9470522887'
+global.ownernomer = '9474522887'
 
 global.ownername = 'CYBER CHAMIYA'
 
