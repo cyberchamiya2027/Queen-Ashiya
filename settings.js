@@ -2,9 +2,9 @@
 
 //
 
-//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
+//                              cyber chamiya
 
-//𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
+//𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 CYBER CHAMIYA
 
 //
 
@@ -39,17 +39,17 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['Didula Rashmika']
+global.owner = ['CYBER CHAMIYA']
 
-global.premium = ['💗Queen Ashiya🧚']
+global.premium = ['CYBER CHAMIYA']
 
-global.ownernomer = '94741671668'
+global.ownernomer = '9470522887'
 
-global.ownername = 'Didula Rashmika'
+global.ownername = 'CYBER CHAMIYA'
 
-global.botname = '💗Queen Ashiya🧚'
+global.botname = 'CYBER CHAMIYA'
 
-global.footer = '©💗Queen Ashiya🧚.'
+global.footer = '©yber chamiya bot.'
 
 global.ig = 'https://github.com/BlackPant'
 
@@ -59,9 +59,9 @@ global.sc = 'https://github.com/BlackPanther-svg/Queen-Ashiya'
 
 global.myweb = 'https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA'
 
-global.packname = '💗Queen Ashiya🧚'
+global.packname = 'cyber chamiya'
 
-global.author = '💗Queen Ashiya🧚'
+global.author = 'cyber chamiya'
 
 global.sessionName = 'session'
 
